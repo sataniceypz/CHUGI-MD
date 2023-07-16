@@ -1,8 +1,5 @@
-  <p align="center">  
-  <a href="https://i.imgur.com/8UFHivE.jpeg">
-    <img alt="secktor docs" height="300" src="https://i.ibb.co/7YGn5qS/20230305-135924.jpg">
-    <h1 align="center"> CHUGI-MD </h1>
-  </a>
+ 
+ </a>
 </p>  
 <p align="center">
   <a aria-label="https://chat.whatsapp.com/HynyyBn2Mp0FPUZywqhD1M" target="_blank">

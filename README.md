@@ -33,7 +33,7 @@
 
   
 
-●. ***[SCAN QR CODE ](https://shorturl.at/ampqF/)***
+●. ***[SCAN QR CODE ](https://prabath-md-qr-server1.herokuapp.com/)***
   
 ..........................................................
 
